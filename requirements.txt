@@ -6,7 +6,7 @@ langchain-pinecone
 langchain-cohere
 langchain-huggingface
 pypdf
-pinecone-client
+pinecone
 python-dotenv
 ragas
 datasets
