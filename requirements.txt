@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-pinecone
+langchain-cohere
+langchain-huggingface
+pypdf
+pinecone-client
+python-dotenv
+ragas
+datasets
+pandas
